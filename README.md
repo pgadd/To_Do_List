@@ -9,4 +9,4 @@ To start project go to parent directory, "To_Do_List" and run the following comm
 
 if you see errors during "npm run build" command, the packages are most likely depreciated but website should still work. 
 
-If frontend doesn't automatically open in browser, go to browser and type in "http://localhost:300"
+If frontend doesn't automatically open in browser, go to browser and type in "http://localhost:3000"
